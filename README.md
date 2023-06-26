@@ -21,25 +21,16 @@
 <a href="https://www.linkedin.com/in/moaz-mohamed-hamza-gaber-46b053231/" target="_blank"><img src="https://img.shields.io/badge/-Moaz%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/qr/VOXXXCT5KLWBO1" target="_blank"><img src="https://img.shields.io/badge/-Moaz%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/></a>
 ### 🛠 &nbsp;Tech Flutter
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-013?style=for-the-badge&logo=Flutter)&nbsp;
+![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
+![dart](https://img.shields.io/badge/-dart-013?style=for-the-badge&logo=dart)&nbsp;
+![oop](https://img.shields.io/badge/-oop-013?style=for-the-badge&logo=oop)&nbsp;
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-013.svg?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+![android](https://img.shields.io/badge/-android-013?style=for-the-badge&logo=android)&nbsp;
 
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
+
+
