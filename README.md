@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/moaz-mohamed-hamza-gaber-46b053231/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/moaz-mohamed-hamza-gaber-46b053231/" target="_blank"><img src="https://img.shields.io/badge/-Moaz%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/qr/VOXXXCT5KLWBO1" target="_blank"><img src="https://img.shields.io/badge/-Moaz%20Mohamed-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=green"/></a>
 ### 🛠 &nbsp;Tech Flutter
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
